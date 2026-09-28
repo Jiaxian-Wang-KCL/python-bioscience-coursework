@@ -1,0 +1,2 @@
+# Analysis uses the Python standard library. Install Jupyter to run the notebook.
+jupyterlab>=4,<5

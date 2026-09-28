@@ -1,0 +1,40 @@
+{
+  "coordinate_system": "zero-based",
+  "input_lengths": {
+    "seq1.txt": 500,
+    "seq2.txt": 4000
+  },
+  "first_tataa_seq1": 432,
+  "inr_first_30_seq1": [
+    0,
+    6,
+    8,
+    14,
+    23
+  ],
+  "candidate_tss_seq2": [
+    854,
+    2259,
+    3240,
+    3243
+  ],
+  "motif_hits_seq1": {
+    "PDX1": [
+      143,
+      246
+    ],
+    "NKX6-1": [
+      392
+    ],
+    "MAFA": [
+      122,
+      334,
+      479
+    ],
+    "SP1": [
+      116
+    ],
+    "NFY": []
+  },
+  "verification": "All 8 code cells executed sequentially using Python 3.12; independent result checks and context boundary check passed. Jupyter kernel execution was unavailable in the restricted execution environment."
+}
