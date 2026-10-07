@@ -35,7 +35,7 @@ python3 -m jupyterlab
 
 ## Provenance and status
 
-This is a private archive supplied by **Jiaxian Wang**. It includes student work together with teaching templates, sample code, explicitly named reference solutions and deliberately buggy exercises. The collection is not represented as entirely original student-authored code or as entirely completed work. Both assessment-year versions and duplicate variants are retained with their original filenames.
+This is a coursework archive supplied by **Jiaxian Wang**. It includes student work together with teaching templates, sample code, explicitly named reference solutions and deliberately buggy exercises. The collection is not represented as entirely original student-authored code or as entirely completed work. Both assessment-year versions and duplicate variants are retained with their original filenames.
 
 Course questions, supplied datasets, images and reference solutions retain their original provenance; no ownership or redistribution licence is asserted over those materials.
 
