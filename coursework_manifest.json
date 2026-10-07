@@ -1,0 +1,443 @@
+{
+  "source_folder": "5BBB0238 Introduction to Programming for Bioscientists",
+  "file_count": 87,
+  "notebook_count": 50,
+  "total_bytes": 12382992,
+  "files": [
+    {
+      "path": "5BBB0238 Summative Coursework 2024-5.ipynb",
+      "bytes": 19023,
+      "sha256": "154aa8c121cb2e2e6ff68e9f1b2d08ddd3e8b16ec1c6f2be137037bfb2e5901b"
+    },
+    {
+      "path": "5BBB0238 Summative Coursework 2025-6.ipynb",
+      "bytes": 15917,
+      "sha256": "a9180a02f45f220102a04c37fc5ff059ad8942c1baaad0dc91ca1f76969f7ad6"
+    },
+    {
+      "path": "5BBB0238_Formative_Coursework.ipynb",
+      "bytes": 14068,
+      "sha256": "404bf2298f0d7e8f63e483ffebc4796a27f41335f1bb72f98f9980891074bb7d"
+    },
+    {
+      "path": "5BBB0238_Formative_Coursework（24-25）.ipynb",
+      "bytes": 18272,
+      "sha256": "28abc7e3abe59a1e938e03a60cf65684df41d560e72bb3f3be3bc2e2e5a30bca"
+    },
+    {
+      "path": "AT350-50-ex.txt",
+      "bytes": 21514,
+      "sha256": "f8e048969b7e7d12dfd24e3d8937d58ea36eb29e3710c5e7d45f2cbfbf967775"
+    },
+    {
+      "path": "CodingClub_W1.ipynb",
+      "bytes": 15138,
+      "sha256": "b514a4bd8ad334da12ab931ef09ec12ed84e56b0afb8b0ccebf578cc7584a9b8"
+    },
+    {
+      "path": "CodingClub_W2.ipynb",
+      "bytes": 9539,
+      "sha256": "0715fc7d0d8d4969e0b269d133f56e6d2149c791710f13831be9a59a3e7ee8a3"
+    },
+    {
+      "path": "CodingClub_W3.ipynb",
+      "bytes": 4371,
+      "sha256": "ca2294e6f4cc6af249a618c8938bdf2433b6c8ea245387da9662037b5dbb5b17"
+    },
+    {
+      "path": "CodingClub_W4.ipynb",
+      "bytes": 5050,
+      "sha256": "64e3de743ecd62d04e1244d3daff99badcb99e92fe9cf3c2c8fe4eaa439183d4"
+    },
+    {
+      "path": "DNAsequence_formative.txt",
+      "bytes": 117,
+      "sha256": "c73eefa563d2af67eef373ada439822deeb9b045c66fa3bc2a9cd00d749709e2"
+    },
+    {
+      "path": "DNAsubsequence_formative.txt",
+      "bytes": 32,
+      "sha256": "4e0a1d31eceb4c707ef4843439be47f33924653f753acea5615f498a0ffb0afe"
+    },
+    {
+      "path": "Dictionaries.ipynb",
+      "bytes": 12650,
+      "sha256": "f2957b3f9f52e210b0a3e9aa91abd1a9aa12a33f3d32959c053e4a3f3e192a41"
+    },
+    {
+      "path": "Dictionary_Revision.ipynb",
+      "bytes": 6147,
+      "sha256": "1e4e22b9e9794304d25fd2fe8cf921c910c283ef78081cdb80899e3b31964038"
+    },
+    {
+      "path": "ET470-40-ex.txt",
+      "bytes": 24224,
+      "sha256": "c860798dac9c16b336ebc55f406736bf023ea86bb1204acd81a405b0ca27690e"
+    },
+    {
+      "path": "ET560-40-ex.txt",
+      "bytes": 24450,
+      "sha256": "b5b0a185cc8aa98f46030012eaaf3159880a4dec4c2191b102c19a5db0d5b180"
+    },
+    {
+      "path": "ET620-60-x.txt",
+      "bytes": 24336,
+      "sha256": "125d63d9fd5d1d9b35d94c2717aa2cfddda6462d33af34bab3f16582fcdb5a9e"
+    },
+    {
+      "path": "RevisionQuestion-solution.ipynb",
+      "bytes": 11700,
+      "sha256": "ce80c2e12dea29a377d3e1bd6e90a9441d45c98b5d1e7f28c44496fe4f276179"
+    },
+    {
+      "path": "RevisionQuestion.ipynb",
+      "bytes": 9959,
+      "sha256": "48ed93735c8bcb4c3b2bf2a72b566393ebabef10a64892fed367b979b62842e0"
+    },
+    {
+      "path": "SLC16A1.txt",
+      "bytes": 3753,
+      "sha256": "a9efc848d8fb66da69c00238f6dad00215b7732d9a9daa7ec6cf91bb78fbef28"
+    },
+    {
+      "path": "W07-PS2.ipynb",
+      "bytes": 43088,
+      "sha256": "7e11e79f3724cf71dc65ecf67e82b79498ded4bc2dbfb3586241945f45fc7b63"
+    },
+    {
+      "path": "W07-PS3.ipynb",
+      "bytes": 16395,
+      "sha256": "9c30be78979034175988d8b2ffe582a7c671eb9238364d002914c186b70464b1"
+    },
+    {
+      "path": "W07-S1 solutions.ipynb",
+      "bytes": 5041,
+      "sha256": "e1858315219e408efc701450184e51c5bd5f6178da9091c3ac01d7fc32443b85"
+    },
+    {
+      "path": "W07-S1-02.ipynb",
+      "bytes": 3575,
+      "sha256": "e1ab9f4615de1fecc7e6d49e173f67a6f5eddc09ce02acf88936435537ab64d8"
+    },
+    {
+      "path": "W07-S1.ipynb",
+      "bytes": 3923,
+      "sha256": "7e1a742d03e977380b12cb71cc534fdea3c114d6a7468009e08e497c3bba5146"
+    },
+    {
+      "path": "W07-S2-02.ipynb",
+      "bytes": 17113,
+      "sha256": "c587756fdcb39839e0e481aa10c824e869a14512bc5ffa424e05aead4e7d5241"
+    },
+    {
+      "path": "W07-S2-solutions.ipynb",
+      "bytes": 32089,
+      "sha256": "d5c7687501d97fd97d8f221eaf4fb7ef2b56291e6c4fae17e4a176e69f872a00"
+    },
+    {
+      "path": "W07Session/W07-S2.ipynb",
+      "bytes": 31838,
+      "sha256": "552f5512f6c6783efaebb075313b3a9cf5471e27aa58055dde7f35f874a56c15"
+    },
+    {
+      "path": "W07Session/dnaseq.txt",
+      "bytes": 63,
+      "sha256": "1ab1f71cbd8fce7cb2a13fac79f51e20f9a279a980e2e824e69bd60ccca76f76"
+    },
+    {
+      "path": "W07Session/dnaseq2.txt",
+      "bytes": 1002,
+      "sha256": "f11354eda81c45c1d550142a528758888a471f58dcedb4b805e6c14b55a4e8ee"
+    },
+    {
+      "path": "W2S1 Notebook.ipynb",
+      "bytes": 26038,
+      "sha256": "3085df13e7a626363052e8817d1ac35e73f57d0d78a8f26a76f56f202a857ac0"
+    },
+    {
+      "path": "W2S1 Notebook（1）.ipynb",
+      "bytes": 22605,
+      "sha256": "acca27dccbcd40bac2abca0e04383ae68b68057f634658a7fc23064d29a4cd35"
+    },
+    {
+      "path": "W2S2 Notebook Solutions.ipynb",
+      "bytes": 14525,
+      "sha256": "5557d9fe6f2ab90a687d617eec28c93787996b62e4882c115169cd3fcae35082"
+    },
+    {
+      "path": "W2S2 Notebook.ipynb",
+      "bytes": 10798,
+      "sha256": "f942879eded5c4be2a9d2d7c781ec4015dc6444432e4347de8fbc41249f54877"
+    },
+    {
+      "path": "W3S1_Notebook-2.ipynb",
+      "bytes": 17466,
+      "sha256": "f9f797ff3d2300010d576aba08a0f08722c6777f17ad0be98285435f49532f0b"
+    },
+    {
+      "path": "W3S1_Notebook.ipynb",
+      "bytes": 18612,
+      "sha256": "5f331673c0c0eabd6bb77b5f3c0d5567482c44c15b142bf04d5fba52e9d5b2c0"
+    },
+    {
+      "path": "W3S1_Notebook_solutions.ipynb",
+      "bytes": 18930,
+      "sha256": "c90a2080981b5af693eaa62ce632132468ac3173737c19e8179033fc30c56aba"
+    },
+    {
+      "path": "W3S2_Notebook-2.ipynb",
+      "bytes": 10943,
+      "sha256": "d8eca02808e70f981ee1d3e45bd2ca40ae0edf44d60448100e2a63f77bd3237d"
+    },
+    {
+      "path": "W3S2_Notebook.ipynb",
+      "bytes": 14108,
+      "sha256": "08546407e257da65368f44dfe0b33e956559b4761810321b09c752ec9f3aaa22"
+    },
+    {
+      "path": "W3S2_Notebook_solutions.ipynb",
+      "bytes": 12493,
+      "sha256": "18c2318d94899217c728280c7c9f7a9ca70e8723a84b74dca63c59cbf14eda29"
+    },
+    {
+      "path": "W3S3_Notebook-2.ipynb",
+      "bytes": 11477,
+      "sha256": "52187d7a5b6bbf04e3017bebce5edc21bc5a7cb4fbb374eaca100496ccba665e"
+    },
+    {
+      "path": "W3S3_Notebook.ipynb",
+      "bytes": 36163,
+      "sha256": "fbfe83af7d86b004d614a5b0bafca30bf9501b0478ffadb2638f8587842bc7fa"
+    },
+    {
+      "path": "W4S1_Notebook-2.ipynb",
+      "bytes": 53436,
+      "sha256": "b03a70ce9bcc084cdf2ed9c6ba42fa8199d3976abdc21fe1d4d8d93268bf4647"
+    },
+    {
+      "path": "W4S1_Notebook.ipynb",
+      "bytes": 53147,
+      "sha256": "09822836b611545f04745cea5b13f2024ce3ceb55b102df5e598d96ab71955d6"
+    },
+    {
+      "path": "W4S1_Notebook_solutions.ipynb",
+      "bytes": 29654,
+      "sha256": "59c7ac5722310d51fdd053ed30d2a5ba44603eb795f3bbfbe1e99e9e2c50ace5"
+    },
+    {
+      "path": "W4S2_Notebook-2.ipynb",
+      "bytes": 35900,
+      "sha256": "cc237aabede76466f3297c9e4b16198f78b0e5ff507d09e232562382fe8656e5"
+    },
+    {
+      "path": "W4S2_Notebook.ipynb",
+      "bytes": 209255,
+      "sha256": "98865c98600ca79d9c37b9b7af39d75e0dcfa6bf720d00e476f63aded76f12a5"
+    },
+    {
+      "path": "W4S2_Notebook_solutions.ipynb",
+      "bytes": 166984,
+      "sha256": "cfe2f6e4837b2e20a2d05dddfa456cc4801399bd6cc9ed46d8accdfad5161f4b"
+    },
+    {
+      "path": "bufo_bufo.jpg",
+      "bytes": 118479,
+      "sha256": "d2d09120ad013ec8d57cbe0ef63f0ae8d862d00f0c26b9703d1f78582c8463a3"
+    },
+    {
+      "path": "bufo_bufo.png",
+      "bytes": 213070,
+      "sha256": "48a3f73a25780b25aa3f852c8dee6a24e3bf6e8a71464932f574150280b143f1"
+    },
+    {
+      "path": "bullfrog.png",
+      "bytes": 162657,
+      "sha256": "78746de0fccaac9cf7d14bd0afbe65149c390b980135006251853a3cfc80b29a"
+    },
+    {
+      "path": "dna1.txt",
+      "bytes": 502,
+      "sha256": "5d880c0d9f68660f1bdf97eaa88f3632774aaf0ad040fda637904264ae914234"
+    },
+    {
+      "path": "dna2.txt",
+      "bytes": 502,
+      "sha256": "a4260e15ed2245c64c35d8e42927ea2e2d0d0dcf84977a2b54400a46dfa13c39"
+    },
+    {
+      "path": "dnaseq.txt",
+      "bytes": 61,
+      "sha256": "7a94484e5351adcbfcf581c52d1f0cc9055dfda7b69716383a420cfb6b8d2304"
+    },
+    {
+      "path": "dnaseq2.txt",
+      "bytes": 1002,
+      "sha256": "f11354eda81c45c1d550142a528758888a471f58dcedb4b805e6c14b55a4e8ee"
+    },
+    {
+      "path": "extended_potato_example.ipynb",
+      "bytes": 23228,
+      "sha256": "7fc6ceb446456ded72215f096635cd47473de3f9bde4235c7f6d008ed5fb2114"
+    },
+    {
+      "path": "filter_selector_bug-fest.ipynb",
+      "bytes": 37588,
+      "sha256": "323c35a60779a3c55dd9575b3d996f5c1f4f67295487fd40345b32edde5715ca"
+    },
+    {
+      "path": "formative_exam_final.ipynb",
+      "bytes": 13790,
+      "sha256": "f7668ea307739dd5155c3e03a8e05877755a412b7580b5ae6c63b310e9939318"
+    },
+    {
+      "path": "functions2.ipynb",
+      "bytes": 14626,
+      "sha256": "ef9885ba2e45411298289b081425654195ee691170a8136ba5f8c957cdc9ed30"
+    },
+    {
+      "path": "functions_practice.ipynb",
+      "bytes": 6444,
+      "sha256": "1f3e980e425504f6eed80c4a51d6eba5776f419900ef118e0ef537db13bfd129"
+    },
+    {
+      "path": "image_processing_data/bullfrog.png",
+      "bytes": 162657,
+      "sha256": "78746de0fccaac9cf7d14bd0afbe65149c390b980135006251853a3cfc80b29a"
+    },
+    {
+      "path": "image_processing_data/bullfrog_invert.png",
+      "bytes": 162717,
+      "sha256": "422eade2392682451707527efd3b7939605f11e670e33f4dab1e6db91c7e7173"
+    },
+    {
+      "path": "image_processing_data/pearsons_correlation/SRRM2/ER.png",
+      "bytes": 310370,
+      "sha256": "ee00ee8c04b37560de5d5a13cee8f72fc1c548a5ec2e94ddac152048528adc29"
+    },
+    {
+      "path": "image_processing_data/pearsons_correlation/SRRM2/SRRM2.png",
+      "bytes": 146791,
+      "sha256": "d1bec31b70033182946dbd34bce53b3ec9f72e1b56885a037af0226dd60dca43"
+    },
+    {
+      "path": "image_processing_data/pearsons_correlation/SRRM2/microtubules.png",
+      "bytes": 268276,
+      "sha256": "e6c713f6f134b77c1676d4a36edd784eda5dc568442d6e7ed5cccdc5bed3ccd1"
+    },
+    {
+      "path": "image_processing_data/pearsons_correlation/SRRM2/nucleus.png",
+      "bytes": 66665,
+      "sha256": "6615469a99242e6de9dd4ac37ffb9e7d5be8acdc7778408c6c2ccf8938b9eac7"
+    },
+    {
+      "path": "image_processing_data/pearsons_correlation/STK3/ER.png",
+      "bytes": 817859,
+      "sha256": "6810cce5f3047abed1ce963390baa3008f3baa25e7dd11a4e363eaf1d03b6510"
+    },
+    {
+      "path": "image_processing_data/pearsons_correlation/STK3/STK3.png",
+      "bytes": 368383,
+      "sha256": "a92b052bf2303cc1a896087454a34bd6395651d92e1693c2cafe1986373fb335"
+    },
+    {
+      "path": "image_processing_data/pearsons_correlation/STK3/microtubules.png",
+      "bytes": 465826,
+      "sha256": "78b40182a2c76b4789eee8b69da419720fdea2826d7874e47c409e68acd6457b"
+    },
+    {
+      "path": "image_processing_data/pearsons_correlation/STK3/nucleus-cropped.png",
+      "bytes": 125768,
+      "sha256": "d828042d01eab7aa1a7e50e672497619132cde44a9a6b4527c3198acfd5d7c2f"
+    },
+    {
+      "path": "image_processing_data/pearsons_correlation/STK3/nucleus.png",
+      "bytes": 125768,
+      "sha256": "d828042d01eab7aa1a7e50e672497619132cde44a9a6b4527c3198acfd5d7c2f"
+    },
+    {
+      "path": "mantella_baroni.png",
+      "bytes": 206568,
+      "sha256": "bb0744d8acb16dd930a7dcf50d0ec4376e5422bb577aa5e545b195396c8fc287"
+    },
+    {
+      "path": "maze_buggy.ipynb",
+      "bytes": 6173,
+      "sha256": "9ec0953430f0406833b062ff19ca3ede8b2e1c12047c9f2b7eca3d65a3af1808"
+    },
+    {
+      "path": "pre_cultures_notebook.ipynb",
+      "bytes": 10178,
+      "sha256": "82d9eddcbcc9a9c102da36959abf711017ca7dad854a92d96cd43790a60d8730"
+    },
+    {
+      "path": "promoters.txt",
+      "bytes": 50100,
+      "sha256": "b9faa5d0bd39bc7ecf1a883f33e001252b9d3c0eb4d47653674426ff3b223c36"
+    },
+    {
+      "path": "rana_temporaria.jpg",
+      "bytes": 16230,
+      "sha256": "38c985466a09ddfe4f58f8d77ae0898e03dbfd913e904f09d0d30d8d1d492c75"
+    },
+    {
+      "path": "secretmessage.txt",
+      "bytes": 51,
+      "sha256": "c3e6d6139f46abf831502981799bf97d12b806814c65f7165008c486063fb7fd"
+    },
+    {
+      "path": "seq.txt",
+      "bytes": 100,
+      "sha256": "6b0655da6c46c61b93574008faf1e63e9da314c0eca65f8820d0717620745202"
+    },
+    {
+      "path": "seq1(1).txt",
+      "bytes": 500,
+      "sha256": "b51b55dc6e2aac4d7268ec3008afb97e3e6d83e223d0766c92aea5bc4b792796"
+    },
+    {
+      "path": "seq1.txt",
+      "bytes": 501,
+      "sha256": "bb7a52a7c9d39d36b5487249f647924755d45a2f4f6ca1f5e43fe5578c728122"
+    },
+    {
+      "path": "seq2.txt",
+      "bytes": 4001,
+      "sha256": "397bebbbf57c3f4510ff0428cee9886f8023dc675bec4459f43b1ce71ea90518"
+    },
+    {
+      "path": "slicing_practice.ipynb",
+      "bytes": 4717,
+      "sha256": "e3889f9f034b2947c4a99e1b35be5b7938d62879f9a0e038976182d55485ad90"
+    },
+    {
+      "path": "song_program_buggy.ipynb",
+      "bytes": 2150,
+      "sha256": "731a52fa10ca381a9495d5b03697ba58b7a70e80904ceb107b9ff922c35617c5"
+    },
+    {
+      "path": "test.jpg",
+      "bytes": 611257,
+      "sha256": "caec4f5c188e2356b841a37542ceadff984aaeca4ac9f12cb71c3d0f3bfec077"
+    },
+    {
+      "path": "test.png",
+      "bytes": 3450315,
+      "sha256": "780fea07d7055ee99d970c9fa93d1e39dc9ad4c2e42c93785b258df54db7dbd0"
+    },
+    {
+      "path": "week08_session_answers2.ipynb",
+      "bytes": 576783,
+      "sha256": "69c7b671f8b437a511d9b269340e727d7ea986e807d01aafe6be05eb04e658dd"
+    },
+    {
+      "path": "week08_sessionmaterial.ipynb",
+      "bytes": 588993,
+      "sha256": "87fe0c78a3df1d5c3b38e33cc90ab5df6ed962f1b4df5f4056fe88724a8053f0"
+    },
+    {
+      "path": "week_08_image_processing.ipynb",
+      "bytes": 2084425,
+      "sha256": "cc3c0110a1d80884f38797e01f63ec7f9e94c7be4b80f3f034a25241b9359b83"
+    }
+  ]
+}

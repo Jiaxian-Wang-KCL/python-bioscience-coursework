@@ -1,0 +1,462 @@
+{
+  "audit_date": "2026-10-07",
+  "method": "JSON inspection and Python AST parsing; original code was not executed. Cell numbers are one-based notebook cell numbers, including markdown.",
+  "notebooks": [
+    {
+      "path": "5BBB0238 Summative Coursework 2024-5.ipynb",
+      "category": "Assessment material",
+      "code_cells": 8,
+      "empty_code_cells": 0,
+      "cells_with_saved_outputs": 6,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "5BBB0238 Summative Coursework 2025-6.ipynb",
+      "category": "Assessment material",
+      "code_cells": 9,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 6,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "5BBB0238_Formative_Coursework.ipynb",
+      "category": "Assessment material",
+      "code_cells": 8,
+      "empty_code_cells": 0,
+      "cells_with_saved_outputs": 8,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "5BBB0238_Formative_Coursework（24-25）.ipynb",
+      "category": "Assessment material",
+      "code_cells": 8,
+      "empty_code_cells": 0,
+      "cells_with_saved_outputs": 8,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "CodingClub_W1.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 16,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 14,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "CodingClub_W2.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 8,
+      "empty_code_cells": 5,
+      "cells_with_saved_outputs": 2,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "CodingClub_W3.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 3,
+      "empty_code_cells": 2,
+      "cells_with_saved_outputs": 0,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "CodingClub_W4.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 3,
+      "empty_code_cells": 3,
+      "cells_with_saved_outputs": 0,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "Dictionaries.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 10,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 8,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "Dictionary_Revision.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 9,
+      "empty_code_cells": 9,
+      "cells_with_saved_outputs": 1,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "RevisionQuestion-solution.ipynb",
+      "category": "Reference / answer filename",
+      "code_cells": 5,
+      "empty_code_cells": 0,
+      "cells_with_saved_outputs": 5,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "RevisionQuestion.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 5,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 4,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W07-PS2.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 9,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 8,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W07-PS3.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 16,
+      "empty_code_cells": 0,
+      "cells_with_saved_outputs": 13,
+      "saved_error_outputs": 2,
+      "syntax_findings": []
+    },
+    {
+      "path": "W07-S1 solutions.ipynb",
+      "category": "Reference / answer filename",
+      "code_cells": 10,
+      "empty_code_cells": 5,
+      "cells_with_saved_outputs": 3,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W07-S1-02.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 6,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 1,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W07-S1.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 6,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 3,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W07-S2-02.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 14,
+      "empty_code_cells": 11,
+      "cells_with_saved_outputs": 0,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W07-S2-solutions.ipynb",
+      "category": "Reference / answer filename",
+      "code_cells": 25,
+      "empty_code_cells": 11,
+      "cells_with_saved_outputs": 14,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W07Session/W07-S2.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 15,
+      "empty_code_cells": 3,
+      "cells_with_saved_outputs": 11,
+      "saved_error_outputs": 0,
+      "syntax_findings": [
+        "cell 12: invalid syntax. Maybe you meant '==' or ':=' instead of '='?"
+      ]
+    },
+    {
+      "path": "W2S1 Notebook.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 19,
+      "empty_code_cells": 0,
+      "cells_with_saved_outputs": 18,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W2S1 Notebook（1）.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 19,
+      "empty_code_cells": 2,
+      "cells_with_saved_outputs": 5,
+      "saved_error_outputs": 0,
+      "syntax_findings": [
+        "cell 42: invalid syntax"
+      ]
+    },
+    {
+      "path": "W2S2 Notebook Solutions.ipynb",
+      "category": "Reference / answer filename",
+      "code_cells": 11,
+      "empty_code_cells": 4,
+      "cells_with_saved_outputs": 1,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W2S2 Notebook.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 7,
+      "empty_code_cells": 4,
+      "cells_with_saved_outputs": 0,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W3S1_Notebook-2.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 10,
+      "empty_code_cells": 0,
+      "cells_with_saved_outputs": 9,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W3S1_Notebook.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 10,
+      "empty_code_cells": 0,
+      "cells_with_saved_outputs": 10,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W3S1_Notebook_solutions.ipynb",
+      "category": "Reference / answer filename",
+      "code_cells": 20,
+      "empty_code_cells": 8,
+      "cells_with_saved_outputs": 10,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W3S2_Notebook-2.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 5,
+      "empty_code_cells": 0,
+      "cells_with_saved_outputs": 5,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W3S2_Notebook.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 5,
+      "empty_code_cells": 0,
+      "cells_with_saved_outputs": 5,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W3S2_Notebook_solutions.ipynb",
+      "category": "Reference / answer filename",
+      "code_cells": 10,
+      "empty_code_cells": 5,
+      "cells_with_saved_outputs": 5,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W3S3_Notebook-2.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 7,
+      "empty_code_cells": 2,
+      "cells_with_saved_outputs": 4,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W3S3_Notebook.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 6,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 5,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W4S1_Notebook-2.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 6,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 5,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W4S1_Notebook.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 6,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 5,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W4S1_Notebook_solutions.ipynb",
+      "category": "Reference / answer filename",
+      "code_cells": 11,
+      "empty_code_cells": 5,
+      "cells_with_saved_outputs": 6,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W4S2_Notebook-2.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 7,
+      "empty_code_cells": 5,
+      "cells_with_saved_outputs": 3,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W4S2_Notebook.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 8,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 7,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "W4S2_Notebook_solutions.ipynb",
+      "category": "Reference / answer filename",
+      "code_cells": 14,
+      "empty_code_cells": 7,
+      "cells_with_saved_outputs": 7,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "extended_potato_example.ipynb",
+      "category": "Assessment material",
+      "code_cells": 14,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 13,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "filter_selector_bug-fest.ipynb",
+      "category": "Debugging exercise",
+      "code_cells": 3,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 2,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "formative_exam_final.ipynb",
+      "category": "Assessment material",
+      "code_cells": 7,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 6,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "functions2.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 11,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 9,
+      "saved_error_outputs": 2,
+      "syntax_findings": []
+    },
+    {
+      "path": "functions_practice.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 10,
+      "empty_code_cells": 4,
+      "cells_with_saved_outputs": 4,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "maze_buggy.ipynb",
+      "category": "Debugging exercise",
+      "code_cells": 4,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 2,
+      "saved_error_outputs": 1,
+      "syntax_findings": []
+    },
+    {
+      "path": "pre_cultures_notebook.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 13,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 10,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "slicing_practice.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 8,
+      "empty_code_cells": 5,
+      "cells_with_saved_outputs": 1,
+      "saved_error_outputs": 1,
+      "syntax_findings": []
+    },
+    {
+      "path": "song_program_buggy.ipynb",
+      "category": "Debugging exercise",
+      "code_cells": 2,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 1,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "week08_session_answers2.ipynb",
+      "category": "Reference / answer filename",
+      "code_cells": 7,
+      "empty_code_cells": 2,
+      "cells_with_saved_outputs": 5,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "week08_sessionmaterial.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 7,
+      "empty_code_cells": 3,
+      "cells_with_saved_outputs": 4,
+      "saved_error_outputs": 0,
+      "syntax_findings": []
+    },
+    {
+      "path": "week_08_image_processing.ipynb",
+      "category": "Practice / teaching material",
+      "code_cells": 32,
+      "empty_code_cells": 1,
+      "cells_with_saved_outputs": 24,
+      "saved_error_outputs": 0,
+      "syntax_findings": [
+        "cell 46: unexpected indent"
+      ]
+    }
+  ]
+}

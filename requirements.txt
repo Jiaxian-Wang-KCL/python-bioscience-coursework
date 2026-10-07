@@ -1,2 +1,4 @@
-# Analysis uses the Python standard library. Install Jupyter to run the notebook.
+# Dependencies for the coursework archive and selected analysis.
 jupyterlab>=4,<5
+numpy
+matplotlib
